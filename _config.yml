@@ -2,3 +2,9 @@ markdown: redcarpet
 excerpt_separator: ""
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+title: Shane Ramey
+description: 
+google_analytics: UA-9674694-2
+show_downloads: true
+theme: jekyll-theme-midnight
